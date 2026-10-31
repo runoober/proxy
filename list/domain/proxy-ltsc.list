@@ -674,6 +674,7 @@ rsshub.woodland.cafe
 +.chanel
 +.appleone.chat
 +.bettergpt.chat
++.bsky.chat
 +.rocket.chat
 +.simplex.chat
 +.tamtam.chat
@@ -2042,7 +2043,6 @@ ws.audioscrobbler.com
 +.auricularesbeatsmarkt.com
 +.auroraoss.com
 +.ausbeatsbydrdre.com
-+.auth0.com
 +.authorxml.com
 +.authy.com
 +.autocad.com
@@ -2752,6 +2752,7 @@ dl.begellhouse.com
 +.bingoporno.com
 +.bingparachute.com
 +.bingsandbox.com
++.bingstatic.com
 +.bingvisualsearch.com
 +.bingworld.com
 +.binoculus.com
@@ -5700,6 +5701,7 @@ rsshub.email-once.com
 +.githubapp.com
 +.githubassets.com
 +.githubhackathon.com
++.githubhelp.com
 +.githubnext.com
 +.githubstatus.com
 +.githubsupport.com
@@ -6517,7 +6519,6 @@ p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 +.idea-server.com
 +.ideal-teens.com
 +.ideapocket.com
-+.identrust.com
 +.idiomconnection.com
 +.www.idlcoyote.com
 +.idnike.com
@@ -6752,7 +6753,6 @@ imperial.insendi.com
 +.intelvmwarecybersecurity.com
 +.intercom.com
 +.intercomassets.com
-+.intercomcdn.com
 +.internationalconnectionsacademy.com
 +.internationalsaimoe.com
 +.internetdownloadmanager.com
@@ -8179,6 +8179,7 @@ faronics.kayako.com
 +.msdn.com
 +.msftconnecttest.com
 +.msftncsi.com
++.msftstatic.com
 +.msgamesresearch.com
 +.msgamestudios.com
 +.msi.com
@@ -11072,7 +11073,10 @@ medone-education.thieme.com
 +.tiktokeu-cdn.com
 +.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
++.tiktokshop.com
++.tiktokstaticb.com
 +.tiktokv.com
++.tiktokvapp.com
 +.tildaapi.com
 +.tildacdn.com
 +.timdir.com
@@ -13368,6 +13372,7 @@ rss.datuan.dev
 +.yinshuiger.info
 +.youxu.info
 +.ing
++.18comic.ink
 +.shdd.ink
 +.itu.int
 +.who.int
@@ -13470,7 +13475,6 @@ rss.datuan.dev
 +.iina.io
 +.imgur.io
 +.intel.io
-+.intercom.io
 +.ipfs.io
 +.itch.io
 +.ius.io
